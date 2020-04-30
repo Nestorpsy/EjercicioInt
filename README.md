@@ -1,2 +1,2 @@
 # EjercicioInt
-Aplicación Web con Api en Node Y SQLite  y Front Con Que
+Aplicación Web con Api en Node Y SQLite  y Front Con VUE
